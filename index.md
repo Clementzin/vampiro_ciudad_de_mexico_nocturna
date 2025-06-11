@@ -1,4 +1,5 @@
 # ¡Bienvenidx a la CDMX Nocturna! 
+![Ciudad de México Vampírica](Leonardo_Phoenix_10_image_of_Mexico_City_the_line_scape_of_Ref_0.jpg)
 Esta es una pequeña wiki que construí después de algún tiempo de buscar información para crear una crónica de Vampiro The Masquerade (VTM) inspirada en la Ciudad de México. 
 Existe un suplemento llamado "México DF Nocturno" pero es del 2004, es decir ya pasaron 21 años y la ciudad tiene casi una década de no llamarse así. 
 Es así que traté de actualizar elementos y adaptar las propuestas de los nuevos suplementos para poder ayudar a mis amigxs y toda persona que busque
